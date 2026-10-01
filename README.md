@@ -7,6 +7,7 @@ written in LaTeX. The notes are in Italian.
 
 - [Big Data Computing](Big%20Data%20Computing.pdf)
 - [Biometric Systems](Biometric%20Systems.pdf)
+- [Computer Vision](Computer%20Vision.pdf)
 
 These are personal notes, not official course material: they may contain errors and do not
 replace the lectures or the textbooks.

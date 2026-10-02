@@ -8,6 +8,7 @@ written in LaTeX. The notes are in Italian.
 - [Big Data Computing](Big%20Data%20Computing.pdf)
 - [Biometric Systems](Biometric%20Systems.pdf)
 - [Computer Vision](Computer%20Vision.pdf)
+- [Distributed Systems](Distributed%20Systems.pdf)
 - [Foundations of Data Science](Foundations%20of%20Data%20Science.pdf)
 
 These are personal notes, not official course material: they may contain errors and do not
